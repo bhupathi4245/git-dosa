@@ -6,4 +6,4 @@
 
 # Karam Dosa
 * Dosa Batter
-* Karam
+* White Karam
