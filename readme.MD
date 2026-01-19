@@ -11,3 +11,7 @@
 # Egg Dosa
 * Dosa Batter
 * 1 or 2 Eggs, Karam, Oil
+
+# Ghee Karam
+* Dosa Batter
+* Ghee
